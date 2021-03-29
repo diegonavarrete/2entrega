@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.navegacion li:hover {
+    background-color: green;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body{
+ background-color: grey;
+}
+
+
+contenido{
+    text-align: 80%;
+}
+.cuadro1 {
+    text-align: center;
+    background-color: aqua;
+    border:3px solid aqua ;
+    padding: 10px;
+    max-width: max-content;
+}
+
+.cuadro2{
+    text-align: center;
+    background-color: yellow;
+    border: 3px solid yellow;
+    padding: 10px;
+    max-width: max-content;
+}
+
+.cuadro3{
+    text-align: center;
+    background-color: orange;
+    border: 3px solid orange;
+    padding: 10px;
+    max-width: max-content;
+}
+
+.cuadro4{
+    text-align: center;
+    background-color: red;
+    border: 3px solid red;
+    padding: 10px;
+    max-width: max-content;
+}
+
+.navegacion {
+    width: 20%;
+}
+
+.contenido {
+    height: 50%;
+}
